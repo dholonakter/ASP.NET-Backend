@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34728.123
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ASP.NET Web-API", "ASP.NET Web-API.csproj", "{877A5555-6E38-45A4-A58E-F72B82C1B461}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PizzaClient", "..\BlazorApp2\PizzaClient.csproj", "{A0C9B5BB-C8CA-4447-A43B-AD9366DFD276}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{877A5555-6E38-45A4-A58E-F72B82C1B461}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{877A5555-6E38-45A4-A58E-F72B82C1B461}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{877A5555-6E38-45A4-A58E-F72B82C1B461}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{877A5555-6E38-45A4-A58E-F72B82C1B461}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A0C9B5BB-C8CA-4447-A43B-AD9366DFD276}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A0C9B5BB-C8CA-4447-A43B-AD9366DFD276}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A0C9B5BB-C8CA-4447-A43B-AD9366DFD276}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A0C9B5BB-C8CA-4447-A43B-AD9366DFD276}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BD75115B-DF2A-4B02-90AD-F18C00083A4C}
+	EndGlobalSection
+EndGlobal
