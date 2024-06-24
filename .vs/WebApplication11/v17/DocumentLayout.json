@@ -1,0 +1,254 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\stage-ontw01\\OneDrive - Scherpthe BV\\Internship Documents\\Automation Test Software\\Test-project\\WebApplication11\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A0C9B5BB-C8CA-4447-A43B-AD9366DFD276}|..\\BlazorApp2\\PizzaClient.csproj|c:\\users\\stage-ontw01\\onedrive - scherpthe bv\\internship documents\\automation test software\\test-project\\blazorapp2\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A0C9B5BB-C8CA-4447-A43B-AD9366DFD276}|..\\BlazorApp2\\PizzaClient.csproj|c:\\users\\stage-ontw01\\onedrive - scherpthe bv\\internship documents\\automation test software\\test-project\\blazorapp2\\components\\routes.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A0C9B5BB-C8CA-4447-A43B-AD9366DFD276}|..\\BlazorApp2\\PizzaClient.csproj|c:\\users\\stage-ontw01\\onedrive - scherpthe bv\\internship documents\\automation test software\\test-project\\blazorapp2\\components\\app.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A0C9B5BB-C8CA-4447-A43B-AD9366DFD276}|..\\BlazorApp2\\PizzaClient.csproj|c:\\users\\stage-ontw01\\onedrive - scherpthe bv\\internship documents\\automation test software\\test-project\\blazorapp2\\components\\layout\\mainlayout.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{877A5555-6E38-45A4-A58E-F72B82C1B461}|WebApplication11.csproj|c:\\users\\stage-ontw01\\onedrive - scherpthe bv\\internship documents\\automation test software\\test-project\\webapplication11\\migrations\\pizzacontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{877A5555-6E38-45A4-A58E-F72B82C1B461}|WebApplication11.csproj|solutionrelative:migrations\\pizzacontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{877A5555-6E38-45A4-A58E-F72B82C1B461}|WebApplication11.csproj|c:\\users\\stage-ontw01\\onedrive - scherpthe bv\\internship documents\\automation test software\\test-project\\webapplication11\\migrations\\20240621121912_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{877A5555-6E38-45A4-A58E-F72B82C1B461}|WebApplication11.csproj|solutionrelative:migrations\\20240621121912_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{877A5555-6E38-45A4-A58E-F72B82C1B461}|WebApplication11.csproj|c:\\users\\stage-ontw01\\onedrive - scherpthe bv\\internship documents\\automation test software\\test-project\\webapplication11\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{877A5555-6E38-45A4-A58E-F72B82C1B461}|WebApplication11.csproj|solutionrelative:properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A0C9B5BB-C8CA-4447-A43B-AD9366DFD276}|..\\BlazorApp2\\PizzaClient.csproj|c:\\users\\stage-ontw01\\onedrive - scherpthe bv\\internship documents\\automation test software\\test-project\\blazorapp2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{877A5555-6E38-45A4-A58E-F72B82C1B461}|WebApplication11.csproj|c:\\users\\stage-ontw01\\onedrive - scherpthe bv\\internship documents\\automation test software\\test-project\\webapplication11\\data\\intializerdb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{877A5555-6E38-45A4-A58E-F72B82C1B461}|WebApplication11.csproj|solutionrelative:data\\intializerdb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{877A5555-6E38-45A4-A58E-F72B82C1B461}|WebApplication11.csproj|c:\\users\\stage-ontw01\\onedrive - scherpthe bv\\internship documents\\automation test software\\test-project\\webapplication11\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{877A5555-6E38-45A4-A58E-F72B82C1B461}|WebApplication11.csproj|solutionrelative:controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{877A5555-6E38-45A4-A58E-F72B82C1B461}|WebApplication11.csproj|c:\\users\\stage-ontw01\\onedrive - scherpthe bv\\internship documents\\automation test software\\test-project\\webapplication11\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{877A5555-6E38-45A4-A58E-F72B82C1B461}|WebApplication11.csproj|solutionrelative:weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A0C9B5BB-C8CA-4447-A43B-AD9366DFD276}|..\\BlazorApp2\\PizzaClient.csproj|c:\\users\\stage-ontw01\\onedrive - scherpthe bv\\internship documents\\automation test software\\test-project\\blazorapp2\\components\\_imports.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A0C9B5BB-C8CA-4447-A43B-AD9366DFD276}|..\\BlazorApp2\\PizzaClient.csproj|c:\\users\\stage-ontw01\\onedrive - scherpthe bv\\internship documents\\automation test software\\test-project\\blazorapp2\\components\\pages\\weather.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\stage-ontw01\\OneDrive - Scherpthe BV\\Internship Documents\\Automation Test Software\\Test-project\\BlazorApp2\\obj\\Debug\\net8.0\\PizzaClient.AssemblyInfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MainLayout.razor",
+              "DocumentMoniker": "C:\\Users\\stage-ontw01\\OneDrive - Scherpthe BV\\Internship Documents\\Automation Test Software\\Test-project\\BlazorApp2\\Components\\Layout\\MainLayout.razor",
+              "RelativeDocumentMoniker": "..\\BlazorApp2\\Components\\Layout\\MainLayout.razor",
+              "ToolTip": "C:\\Users\\stage-ontw01\\OneDrive - Scherpthe BV\\Internship Documents\\Automation Test Software\\Test-project\\BlazorApp2\\Components\\Layout\\MainLayout.razor",
+              "RelativeToolTip": "..\\BlazorApp2\\Components\\Layout\\MainLayout.razor",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-24T09:15:31.789Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "20240621121912_InitialCreate.cs",
+              "DocumentMoniker": "C:\\Users\\stage-ontw01\\OneDrive - Scherpthe BV\\Internship Documents\\Automation Test Software\\Test-project\\WebApplication11\\Migrations\\20240621121912_InitialCreate.cs",
+              "RelativeDocumentMoniker": "Migrations\\20240621121912_InitialCreate.cs",
+              "ToolTip": "C:\\Users\\stage-ontw01\\OneDrive - Scherpthe BV\\Internship Documents\\Automation Test Software\\Test-project\\WebApplication11\\Migrations\\20240621121912_InitialCreate.cs",
+              "RelativeToolTip": "Migrations\\20240621121912_InitialCreate.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-24T07:18:11.032Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "App.razor",
+              "DocumentMoniker": "C:\\Users\\stage-ontw01\\OneDrive - Scherpthe BV\\Internship Documents\\Automation Test Software\\Test-project\\BlazorApp2\\Components\\App.razor",
+              "RelativeDocumentMoniker": "..\\BlazorApp2\\Components\\App.razor",
+              "ToolTip": "C:\\Users\\stage-ontw01\\OneDrive - Scherpthe BV\\Internship Documents\\Automation Test Software\\Test-project\\BlazorApp2\\Components\\App.razor",
+              "RelativeToolTip": "..\\BlazorApp2\\Components\\App.razor",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-21T13:53:50.532Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Routes.razor",
+              "DocumentMoniker": "C:\\Users\\stage-ontw01\\OneDrive - Scherpthe BV\\Internship Documents\\Automation Test Software\\Test-project\\BlazorApp2\\Components\\Routes.razor",
+              "RelativeDocumentMoniker": "..\\BlazorApp2\\Components\\Routes.razor",
+              "ToolTip": "C:\\Users\\stage-ontw01\\OneDrive - Scherpthe BV\\Internship Documents\\Automation Test Software\\Test-project\\BlazorApp2\\Components\\Routes.razor",
+              "RelativeToolTip": "..\\BlazorApp2\\Components\\Routes.razor",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-21T13:53:53.031Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\stage-ontw01\\OneDrive - Scherpthe BV\\Internship Documents\\Automation Test Software\\Test-project\\BlazorApp2\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "..\\BlazorApp2\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\stage-ontw01\\OneDrive - Scherpthe BV\\Internship Documents\\Automation Test Software\\Test-project\\BlazorApp2\\Properties\\launchSettings.json",
+              "RelativeToolTip": "..\\BlazorApp2\\Properties\\launchSettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-06-24T07:17:58.925Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "IntializerDB.cs",
+              "DocumentMoniker": "C:\\Users\\stage-ontw01\\OneDrive - Scherpthe BV\\Internship Documents\\Automation Test Software\\Test-project\\WebApplication11\\Data\\IntializerDB.cs",
+              "RelativeDocumentMoniker": "Data\\IntializerDB.cs",
+              "ToolTip": "C:\\Users\\stage-ontw01\\OneDrive - Scherpthe BV\\Internship Documents\\Automation Test Software\\Test-project\\WebApplication11\\Data\\IntializerDB.cs",
+              "RelativeToolTip": "Data\\IntializerDB.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-24T07:16:27.03Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "PizzaContextModelSnapshot.cs",
+              "DocumentMoniker": "C:\\Users\\stage-ontw01\\OneDrive - Scherpthe BV\\Internship Documents\\Automation Test Software\\Test-project\\WebApplication11\\Migrations\\PizzaContextModelSnapshot.cs",
+              "RelativeDocumentMoniker": "Migrations\\PizzaContextModelSnapshot.cs",
+              "ToolTip": "C:\\Users\\stage-ontw01\\OneDrive - Scherpthe BV\\Internship Documents\\Automation Test Software\\Test-project\\WebApplication11\\Migrations\\PizzaContextModelSnapshot.cs",
+              "RelativeToolTip": "Migrations\\PizzaContextModelSnapshot.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-24T07:18:14.281Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "WeatherForecastController.cs",
+              "DocumentMoniker": "C:\\Users\\stage-ontw01\\OneDrive - Scherpthe BV\\Internship Documents\\Automation Test Software\\Test-project\\WebApplication11\\Controllers\\WeatherForecastController.cs",
+              "RelativeDocumentMoniker": "Controllers\\WeatherForecastController.cs",
+              "ToolTip": "C:\\Users\\stage-ontw01\\OneDrive - Scherpthe BV\\Internship Documents\\Automation Test Software\\Test-project\\WebApplication11\\Controllers\\WeatherForecastController.cs",
+              "RelativeToolTip": "Controllers\\WeatherForecastController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAIBJwBkAAABKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-21T14:48:16.835Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\stage-ontw01\\OneDrive - Scherpthe BV\\Internship Documents\\Automation Test Software\\Test-project\\BlazorApp2\\Program.cs",
+              "RelativeDocumentMoniker": "..\\BlazorApp2\\Program.cs",
+              "ToolTip": "C:\\Users\\stage-ontw01\\OneDrive - Scherpthe BV\\Internship Documents\\Automation Test Software\\Test-project\\BlazorApp2\\Program.cs",
+              "RelativeToolTip": "..\\BlazorApp2\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-21T14:31:50.717Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\stage-ontw01\\OneDrive - Scherpthe BV\\Internship Documents\\Automation Test Software\\Test-project\\WebApplication11\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\stage-ontw01\\OneDrive - Scherpthe BV\\Internship Documents\\Automation Test Software\\Test-project\\WebApplication11\\Properties\\launchSettings.json",
+              "RelativeToolTip": "Properties\\launchSettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-06-19T14:59:29.622Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "PizzaClient.AssemblyInfo.cs",
+              "DocumentMoniker": "C:\\Users\\stage-ontw01\\OneDrive - Scherpthe BV\\Internship Documents\\Automation Test Software\\Test-project\\BlazorApp2\\obj\\Debug\\net8.0\\PizzaClient.AssemblyInfo.cs",
+              "RelativeDocumentMoniker": "..\\BlazorApp2\\obj\\Debug\\net8.0\\PizzaClient.AssemblyInfo.cs",
+              "ToolTip": "C:\\Users\\stage-ontw01\\OneDrive - Scherpthe BV\\Internship Documents\\Automation Test Software\\Test-project\\BlazorApp2\\obj\\Debug\\net8.0\\PizzaClient.AssemblyInfo.cs",
+              "RelativeToolTip": "..\\BlazorApp2\\obj\\Debug\\net8.0\\PizzaClient.AssemblyInfo.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAABAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-21T14:35:01.814Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "_Imports.razor",
+              "DocumentMoniker": "C:\\Users\\stage-ontw01\\OneDrive - Scherpthe BV\\Internship Documents\\Automation Test Software\\Test-project\\BlazorApp2\\Components\\_Imports.razor",
+              "RelativeDocumentMoniker": "..\\BlazorApp2\\Components\\_Imports.razor",
+              "ToolTip": "C:\\Users\\stage-ontw01\\OneDrive - Scherpthe BV\\Internship Documents\\Automation Test Software\\Test-project\\BlazorApp2\\Components\\_Imports.razor",
+              "RelativeToolTip": "..\\BlazorApp2\\Components\\_Imports.razor",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-21T14:33:26.106Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Weather.razor",
+              "DocumentMoniker": "C:\\Users\\stage-ontw01\\OneDrive - Scherpthe BV\\Internship Documents\\Automation Test Software\\Test-project\\BlazorApp2\\Components\\Pages\\Weather.razor",
+              "RelativeDocumentMoniker": "..\\BlazorApp2\\Components\\Pages\\Weather.razor",
+              "ToolTip": "C:\\Users\\stage-ontw01\\OneDrive - Scherpthe BV\\Internship Documents\\Automation Test Software\\Test-project\\BlazorApp2\\Components\\Pages\\Weather.razor",
+              "RelativeToolTip": "..\\BlazorApp2\\Components\\Pages\\Weather.razor",
+              "ViewState": "AQIAABsAAAAAAAAAAIBJwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-21T14:31:00.726Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "WeatherForecast.cs",
+              "DocumentMoniker": "C:\\Users\\stage-ontw01\\OneDrive - Scherpthe BV\\Internship Documents\\Automation Test Software\\Test-project\\WebApplication11\\WeatherForecast.cs",
+              "RelativeDocumentMoniker": "WeatherForecast.cs",
+              "ToolTip": "C:\\Users\\stage-ontw01\\OneDrive - Scherpthe BV\\Internship Documents\\Automation Test Software\\Test-project\\WebApplication11\\WeatherForecast.cs",
+              "RelativeToolTip": "WeatherForecast.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-21T14:30:00.641Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
